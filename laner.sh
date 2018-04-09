@@ -2,7 +2,7 @@
 IFACE="wlp2s0"
 
 
-echo "<LAN RECON Scr!pt/>"
+echo "<LAN ATTACK Scr!pt/>"
 echo "[1]192.168.O.O/24"
 echo "[2]192.168.1.0/24"
 echo "[3]10.0.0.0/24"
